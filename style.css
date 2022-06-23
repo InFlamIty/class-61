@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(blue 0%, red 100%);
+    color: white;
+}
+.underline{
+    height: 5px;
+    width: 100px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px auto;
+}
